@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+:book: I’m currently working on HKUST(GZ) to pursue my MPhil degree.
 <!--
 **Git-King-Zhan/Git-King-Zhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
